@@ -10,4 +10,12 @@ Hola perros soy Bryan Cutipa y soy desarrollador frontend - backend apasionado e
 ## 💻instalacion 💻
 - ubicarse en la carpeta que contendra el proyecto
 - abrir terminal de comandos
-    - git clone git@github.com:elbryan123blxd-ai/Bryan-cutipa-card.git
+    - git clone https://github.com/elbryan123blxd-ai/Bryan-cutipa-card.git
+    - cd Bryan-cutipa-card
+    - Levantar en un servidor y disfrutar
+
+## 👩‍💻Tecnologias usadas 👩‍💻
+- HTML
+
+## 🤗redes sociales
+- no tengo por ahora :C 
